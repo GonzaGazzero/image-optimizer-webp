@@ -1,0 +1,19 @@
+{
+  "name": "compresorimagenes",
+  "version": "1.0.0",
+  "description": "Proyecto para comprimir imágenes con Gulp",
+  "type": "module", 
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-imagemin": "^9.1.0",
+    "gulp-webp": "^5.0.0"
+  }
+}
+

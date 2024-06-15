@@ -1,0 +1,13 @@
+# Node.js modules
+node_modules/
+
+# Archivos generados por Gulp
+img-webp/
+img-original/
+
+# Otros archivos generados
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración específicos del entorno
+.env
