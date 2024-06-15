@@ -2,9 +2,9 @@
 node_modules/
 
 # Archivos generados por Gulp
+src/img/
 img-webp/
-img-original/
-
+build/img
 # Otros archivos generados
 .DS_Store
 Thumbs.db
